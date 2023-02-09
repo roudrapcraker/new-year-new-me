@@ -1,0 +1,135 @@
+*{
+    font-family: 'Work Sans', sans-serif;
+}
+.head{width: 1600px;
+    height: 800px;
+    background-image: url('images/banner/banner3.png');
+}
+.header-message{
+    text-align: end;
+    padding: 216px 230px 230px 876px ;
+    color: #FFFFFF;
+}
+.header-title{
+    font-size: 65px;
+    font-weight: 900px;
+}
+.header-description{
+    font-size: 16px;
+    font-weight: 600;
+}
+.btn-contact{
+    border: 0;
+    border-radius: 5px;
+    padding: 10px 40px;
+    font-size: 20px;
+    font-weight: 700;
+    color:#005FAC;
+    
+}
+
+/* previous year style */
+.previous-year{
+    display: flex;
+    justify-content: space-between;
+    gap: 87px;
+
+ padding: 100px 206px;
+}
+.pic{
+    background-image: url('images/person.png');
+    background-repeat: no-repeat;
+}
+.words
+{
+    padding: 100px 150px 0 100px;
+    
+   
+}
+.words-title{
+    color: black;
+    font-size: 40px;
+    font-weight: 700;
+}
+.failours{
+    font-weight: 400;
+    font-size: 16px;
+}
+/* achievements */
+.pic{
+    background-image: url('images/person.png');
+    background-repeat: no-repeat;
+}
+ .check-mark{
+    height: 16px;
+    width: 16px;
+} 
+.check-word{
+    display: flex;
+}
+
+/* My plans style */
+.My-plans{
+    padding: 100px 230px;
+}
+.plans-title{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+.all-plans{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.plans .plans-item{
+    font-size: 30px;
+    font-weight: 700;
+}
+.plans .plans-process{
+    font-size: 25px;
+    font-weight: 500;
+
+}
+/* Mindset style */
+.mindset{
+    background-image: url(images/gradient1.png),url(images/watch.png);
+    background-repeat: no-repeat;
+    margin: 200px 230px;
+    height: 300px;
+    padding: 30px 617px 30px 64px;
+    
+}
+.mindset-title{
+    color: #FFFFFF;
+    font-size: 40px;
+    font-weight: 700;
+}
+/* footer style */
+.footer-area{
+    height: 517px;
+    background-color: #151414;
+    color: #FFFFFF;
+}
+.footer-container{
+    display: flex;
+    padding: 130px 230px;
+    gap: 300px;
+}
+#Email{
+    padding: 21px 0 21px 21px;
+    border-radius: 5px;
+    background-color: #151414;
+    box-shadow: #FFFFFF;
+    margin-bottom: 16px;
+    
+}
+.future-title{
+    font-size: 45px;
+    font-weight: 700;
+}
+.Subscription-title{
+    font-size: 25px;
+    font-weight: 600;
+    padding-bottom: 31px;
+}
